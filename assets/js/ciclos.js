@@ -7,9 +7,6 @@
 // }
 
 
-
-
-
 // Ciclo While
 // let user = prompt("Ingrese su usuario:");
 // let password = prompt("Ingrese su contraseña:");
@@ -24,35 +21,8 @@
 // console.log("Acceso concedido");
 
 
-
-// let opcion = 0
-// do{
-//     console.log("Bievenido al sistema")
-//     opcion = parseInt(prompt(`Elige una opción:
-//         1. Crear
-//         2. Listar
-//         3. Actualizar un dato
-//         4. Salir
-//         Elige una opción: `));
-
-//     switch(opcion){
-//         case 1:
-//             console.log("Crear un nuevo registro");
-//             // Aquí iría la lógica para crear un registro
-//             break;
-//         case 2:
-//             console.log("Listar los registros");
-//             // Aquí iría la lógica para listar los registros
-//             break;
-        
-//     }
-// }while(opcion !== 4);
+// Estructura de control Switch
 
 
 
-function mostrarNumerosPares() {
-   console.log("Hola, soy un ciclo for");
-}
 
-
-mostrarNumerosPares();
